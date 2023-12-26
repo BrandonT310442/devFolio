@@ -10,7 +10,6 @@
         
       </label>
       <!-- menu -->
-      <div class="logo">Font</div>
       <ul class="desktop-menu-bar menu-animation">
         <li>
           <a class="text-decoration-none" href="#about"><span>01. </span>About</a>

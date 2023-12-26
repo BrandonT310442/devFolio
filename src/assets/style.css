@@ -112,6 +112,17 @@ nav ul li a.active,nav ul li a:hover{
 .description button{
 	margin-top: 30px;
 }
+
+a {
+    color: #64ffda;
+    text-decoration: none;
+}
+
+a:hover {
+    color:white; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
 /*===========================Description===========================*/
 /*==============================About==============================*/
 .about{

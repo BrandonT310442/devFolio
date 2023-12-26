@@ -7,20 +7,22 @@
 				</div>
 				<div class="row px-3 left-project">
 					<div class="col-md-7 project-image">
-						<img src="@/assets/djeverlastin.png" class="img-fluid" alt="project image">
+						<img src="@/assets/f1simulation.png" class="img-fluid" alt="project image">
 					</div>
 					<div class="col-md-5 project-desc">
 						<p class="text-capitalize text-right mb-0 featured">Featured Project</p>
-						<h4 class="font-weight-bold text-right mt-0">DJEverlastin Website</h4>
-						<p class="text-right full-project-desc p-3">A website for DJ Everlastin (the music demigod) with media player that plays mixtapes created by the music demigod and session bookings.</p>
+						<h4 class="font-weight-bold text-right mt-0">F1 Car Physics Simulation</h4>
+						<p class="text-right full-project-desc p-3">Real-time physics simulation of an F1 car. User-friendly interface using arrow keys to control the car's movement. Calculations for velocity, acceleration, and other kinematic parameters. Calculation of various forces acting on the car, including friction and aerodynamic drag. Customizable settings for top speed and braking force. Velocity-time graph for visualizing the car's speed over time.</p>
 						<ul class="project-tools">
-							<li>Boostrap</li>
-							<li>Lightbox</li>
-							<li>AOS</li>
+							<li>JS</li>
+							<li>Chart.js</li>
+							<li>Bulma</li>
+							<li>HTML</li>
+
 						</ul>
 						<ul class="project-link">
-							<li><a target="_blank" href="https://github.com/Haayzeed/djeverlastin"><i class="fab fa-github"></i></a></li>
-							<li><a target="_blank" href="https://djeverlastin.netlify.app/"><i class="fas fa-external-link-alt"></i></a></li>
+							<li><a target="_blank" href="https://github.com/BrandonT310442/F1-Car-Simulation?tab=readme-ov-file"><i class="fab fa-github"></i></a></li>
+							<li><a target="_blank" href="https://brandont310442.github.io/F1-Car-Simulation/"><i class="fas fa-external-link-alt"></i></a></li>
 						</ul>
 					</div>
 				</div>
