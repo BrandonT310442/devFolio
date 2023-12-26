@@ -34,9 +34,7 @@ My journey as a full stack developer not only reflects my academic pursuits but 
 					</p>
 				</div>
 				<div class="col-md-5 about-image">
-					<div class="img-holder">
-						<img src="@/assets/Brandon Tai.webp" class="rounded" loading="lazy" alt="Avatar">
-					</div>
+				
 				</div>
 			</div>
 		</section>
