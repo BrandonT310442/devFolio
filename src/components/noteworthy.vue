@@ -150,18 +150,18 @@
 								<a href="https://insure-me.netlify.app" target="_blank" class="d-flex justify-content-end"><i class="fas fa-external-link-alt"></i></a>
 							</div>
 							<div class="col-md-12 noteworthy-project-title mt-3">
-								<h4 class="text-capitalize font-weight-bold">Insure Landing Page</h4>
+								<h4 class="text-capitalize font-weight-bold">FRC First Robotics Scouting App</h4>
 								<p class="">
-									Challenge built to show a landing page with custom mobile navbar toggle. it was built with HTML, CSS, Bootstrap and Javascript
+									Built a scouting app for the 2023 Charged Up Offseason. Led to a 76% win percentage, and back to back wins in the Stemley Cup and Overtime Sunday. 
 								</p>
 							</div>
 							<div class="col-md-12 project-footer">
 								<ul class="project-tools pb-0 mb-0">
-									<li>HTML</li>
-									<li>CSS</li>
-									<li>Boostrap</li>
-									<li>Javascript</li>
-									<li>Netlify</li>
+									<li>MongoDB</li>
+									<li>ExpressJS</li>
+									<li>Vue</li>
+									<li>Node JS</li>
+									<li>Bulma</li>
 								</ul>
 							</div>
 						</div>

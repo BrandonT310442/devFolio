@@ -11,9 +11,7 @@
 
 					</p>
 					<!-- I am a computer science major in my finals. I currently am a member of Code Clan Nigeria, where I enjoy working on meaningful projects on a daily basis. -->
-					<p> In the fast-evolving landscape of technology, I am committed to staying on the cutting edge, constantly honing my expertise in a diverse range of programming languages and frameworks. From designing captivating user interfaces that captivate attention to architecting robust back-end systems that ensure optimal functionality, my goal is to seamlessly blend creativity with technical precision.
-
-My journey as a full stack developer not only reflects my academic pursuits but also underscores my dedication to pushing boundaries and creating impactful solutions. Collaborative by nature, I thrive on teamwork and value the exchange of ideas, fostering an environment where innovation can flourish. </p>
+					<p>I love Computer Science, due to it having unlimited capabalities. The unlimited power of Computer Science, has inspired me to create projects not only in class but in my free time. I hope that one day my applications will be used by those worldwide.</p>
 					<p>Here are a few technologies I've been working with recently:
 						<ul class="skill-list float-left ml-5 mr-5 fa-ul">
 							<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>HTML & CSS</li>
