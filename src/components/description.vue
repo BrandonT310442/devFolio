@@ -7,7 +7,7 @@
 					<p class="hi">Hi, my name is</p>
 					<h1 class="name">Brandon Tai.</h1>
 					<h1 class="name-subtitle">I build applications for the web.</h1>
-					<p class="name-desc">I'm a full stack developer in Grade 12 located in Toronto, Canada. I am passionate about creating and developing applications that push the boundaries of what's possible.</p>
+					<p class="name-desc">I'm a full stack developer in Grade 12 located in Toronto, Canada. I am passionate about creating and developing applications that help solve real-world problems.</p>
 				</div>
 			</div>
 		</section>

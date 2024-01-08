@@ -11,7 +11,7 @@
 
 					</p>
 					<!-- I am a computer science major in my finals. I currently am a member of Code Clan Nigeria, where I enjoy working on meaningful projects on a daily basis. -->
-					<p>I love Computer Science, due to it having unlimited capabalities. The unlimited power of Computer Science, has inspired me to create projects not only in class but in my free time. I hope that one day my applications will be used by those worldwide.</p>
+					<p>I love Computer Science, due to it having unlimited capabalities. The unlimited power of Computer Science, has inspired me to create projects not only in class but in my free time. I hope that one day my applications will positively impact those worldwide.</p>
 					<p>Here are a few technologies I've been working with recently:
 						<ul class="skill-list float-left ml-5 mr-5 fa-ul">
 							<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>HTML & CSS</li>

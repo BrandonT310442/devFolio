@@ -131,9 +131,8 @@
 								<ul class="project-tools pb-0 mb-0">
 									<li>HTML</li>
 									<li>CSS</li>
-									<li>Boostrap</li>
-									<li>Jquery</li>
-									<li>Netlify</li>
+									<li>JS</li>
+									
 								</ul>
 							</div>
 						</div>
