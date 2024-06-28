@@ -151,7 +151,7 @@
 							<div class="col-md-12 noteworthy-project-title mt-3">
 								<h4 class="text-capitalize font-weight-bold">FRC First Robotics Scouting App</h4>
 								<p class="">
-									Built a scouting app for the 2023 Charged Up Offseason. Led to a 76% win percentage, and back to back wins in the Stemley Cup and Overtime Sunday. 
+									Built a scouting app for the 2023 Charged Up Offseason. Led to a 76% win percentage, and First place in the FRC World Championships Galileo Division. 
 								</p>
 							</div>
 							<div class="col-md-12 project-footer">
